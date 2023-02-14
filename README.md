@@ -1,4 +1,7 @@
 # 一、注册账号
+
+GLADOS官方GITHUB：https://github.com/glados-network/GLaDOS
+
 注册详情请去：https://www.xmstudent.ml/post-43.html
 
 # 二、CK获取
