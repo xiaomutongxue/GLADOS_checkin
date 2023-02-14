@@ -1,9 +1,8 @@
 # 一、注册账号
-https://glados.rocks/register
-填写邀请码可额外得三天：`2G0TL-4XE0V-EF3PA-VVY8F	`
+注册详情请去：https://www.xmstudent.ml/post-43.html
 
 # 二、CK获取
-![](http://xmss.byethost18.com/imgs/2023/02/516487c271b00b39.png)
+![](https://img.xms.su/file/ef402f5a3f2263717c6b4.png)
 
 # 三、部署（1本地or青龙）
 ## 1.本地
@@ -17,4 +16,4 @@ https://glados.rocks/register
 在 定时任务 处添加任务
 
 # 四、结果
-![](http://xmss.byethost18.com/imgs/2023/02/b8f33370b24949a0.png)
+![](https://img.xms.su/file/894acb93158b434bba997.png)
