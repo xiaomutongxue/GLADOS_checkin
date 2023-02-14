@@ -5,7 +5,7 @@ https://glados.rocks/register
 # 二、CK获取
 ![](http://xmss.byethost18.com/imgs/2023/02/516487c271b00b39.png)
 
-# 二、部署（1本地or青龙）
+# 三、部署（1本地or青龙）
 ## 1.本地
 运行前请已经安装依赖：`requests`, `os`, `json`
 获取CK后，在python代码改：`PUSH_PLUS_TOKEN1`、`GLADOS_COOKIE1`
@@ -16,5 +16,5 @@ https://glados.rocks/register
 在 环境变量 中添加两个环境变量 `PUSH_PLUS_TOKEN`、`GLADOS_COOKIE`
 在 定时任务 处添加任务
 
-# 结果
+# 四、结果
 ![](http://xmss.byethost18.com/imgs/2023/02/b8f33370b24949a0.png)
