@@ -6,6 +6,7 @@ GLADOS官方GITHUB：https://github.com/glados-network/GLaDOS
 
 # 二、CK获取
 ![](https://img.xms.su/file/ef402f5a3f2263717c6b4.png)
+![](http://www.xmstudent.cf/imgs/2023/02/42f989903ac3a1f6.png)
 
 # 三、部署（1本地or青龙）
 ## 1.本地
