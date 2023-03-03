@@ -5,7 +5,7 @@ GLADOS官方GITHUB：https://github.com/glados-network/GLaDOS
 注册详情请去：https://www.xmstudent.ml/post-43.html
 
 # 二、CK获取
-![](https://xmimg.page.dev/file/ef402f5a3f2263717c6b4.png)
+![](https://xmimg.pages.dev/file/ef402f5a3f2263717c6b4.png)
 ![](https://www.xmstudent.cf/imgs/2023/02/42f989903ac3a1f6.png)
 
 # 三、部署（1本地or青龙）
